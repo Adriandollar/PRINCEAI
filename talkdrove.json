@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~scl/fi/zsil1bypv285vhq4b2we0/uo4n21xHh5.json?rlkey=srnw9hbyv8mreznppppsz82z7&dl=0"
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
